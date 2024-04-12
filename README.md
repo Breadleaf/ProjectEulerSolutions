@@ -1,3 +1,3 @@
 # Project Euler Solutions
 
-I am using the (Project Euler)[https://projecteuler.net/] problems to learn rust!
+I am using the [Project Euler](https://projecteuler.net/) problems to learn rust!
